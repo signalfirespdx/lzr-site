@@ -1,0 +1,132 @@
+{
+  "_HttpStatusCode-DjTx85av.js": {
+    "file": "assets/HttpStatusCode-DjTx85av.js",
+    "name": "HttpStatusCode"
+  },
+  "_index-CDWKYin1.js": {
+    "file": "assets/index-CDWKYin1.js",
+    "name": "index",
+    "imports": [
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "_preload-helper-ug3pwPZ1.js": {
+    "file": "assets/preload-helper-ug3pwPZ1.js",
+    "name": "preload-helper"
+  },
+  "_routes-B7eShwfZ.js": {
+    "file": "assets/routes-B7eShwfZ.js",
+    "name": "routes",
+    "imports": [
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "_routing-BFwPgwdA.js": {
+    "file": "assets/routing-BFwPgwdA.js",
+    "name": "routing",
+    "imports": [
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "_web-8brcLJOj.js": {
+    "file": "assets/web-8brcLJOj.js",
+    "name": "web"
+  },
+  "content/categories/anti-racism.md": {
+    "file": "assets/anti-racism-C4xmpE7A.js",
+    "name": "anti-racism",
+    "src": "content/categories/anti-racism.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "content/categories/community.md": {
+    "file": "assets/community-Db0gKb_I.js",
+    "name": "community",
+    "src": "content/categories/community.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "src/routes/[...404].mdx?pick=$css": {
+    "file": "assets/_...404_-CxR8xLwF.js",
+    "name": "_...404_",
+    "src": "src/routes/[...404].mdx?pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js",
+      "_HttpStatusCode-DjTx85av.js"
+    ]
+  },
+  "src/routes/about.mdx?pick=$css": {
+    "file": "assets/about-CqXDowpk.js",
+    "name": "about",
+    "src": "src/routes/about.mdx?pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "src/routes/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-Bpf5CWgz.js",
+    "name": "index",
+    "src": "src/routes/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper-ug3pwPZ1.js",
+      "_web-8brcLJOj.js",
+      "_routes-B7eShwfZ.js",
+      "_routing-BFwPgwdA.js"
+    ],
+    "dynamicImports": [
+      "content/categories/anti-racism.md",
+      "content/categories/community.md"
+    ],
+    "css": [
+      "assets/index-B_rxnpnF.css"
+    ]
+  },
+  "src/routes/zines/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-Cio9Yeaw.js",
+    "name": "index",
+    "src": "src/routes/zines/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_web-8brcLJOj.js",
+      "_routes-B7eShwfZ.js",
+      "_routing-BFwPgwdA.js"
+    ]
+  },
+  "virtual:$vinxi/handler/client": {
+    "file": "assets/client-BCZZVy9i.js",
+    "name": "client",
+    "src": "virtual:$vinxi/handler/client",
+    "isEntry": true,
+    "imports": [
+      "_web-8brcLJOj.js",
+      "_preload-helper-ug3pwPZ1.js",
+      "_routing-BFwPgwdA.js",
+      "_index-CDWKYin1.js",
+      "_HttpStatusCode-DjTx85av.js"
+    ],
+    "dynamicImports": [
+      "src/routes/[...404].mdx?pick=$css",
+      "src/routes/about.mdx?pick=$css",
+      "src/routes/index.tsx?pick=default&pick=$css",
+      "src/routes/zines/index.tsx?pick=default&pick=$css"
+    ],
+    "css": [
+      "assets/client-Dj8gJexw.css"
+    ]
+  }
+}

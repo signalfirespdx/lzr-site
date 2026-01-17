@@ -1,0 +1,1 @@
+import{e as a}from"./web-8brcLJOj.js";function s(t){return t.replace(/\.md$/,"")}function c(t,r){return Promise.all(Object.entries(t).map(async([e,o])=>({path:s(e),page:await o()}))).then(e=>r?e.sort(r):e)}function u(t,r=void 0){const[e,o]=a([]);return c(t,r).then(o).catch(n=>console.error(n)),[e]}export{u as g};

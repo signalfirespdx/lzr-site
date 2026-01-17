@@ -1,0 +1,79 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: user/repo
+
+media_folder: /static/media
+public_folder: /media
+
+collections:
+  - name: categories
+    label: Categories
+    folder: /content/categories
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - label: Name
+        name: name
+        widget: string
+        hint: "Machine-readable name (used as key, e.g. 'zines', 'events')"
+
+      - label: Label
+        name: label
+        widget: string
+        hint: "Human-readable label (e.g. 'Zines', 'Upcoming Events')"
+
+      - label: Image
+        name: image
+        widget: image
+        required: false
+        hint: "Optional image used for category cards, headers, or filters"
+  - name: posts
+    label: Posts
+    folder: /content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Body, name: body, widget: markdown }
+
+  - name: zines
+    label: Zines
+    folder: /content/zines
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Category, name: category, widget: string }
+      - label: Tags
+        name: tags
+        widget: list
+        summary: "{{fields.tag}}"
+        field: { label: Tag, name: tag, widget: string }
+      - { label: File, name: file, widget: file }
+      - { label: Preview image, name: preview_image, widget: image, required: false }
+      - { label: Description, name: description, widget: markdown }
+
+  - name: events
+    label: Upcoming Events
+    folder: /content/events
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: Category, name: category, widget: string, required: false }
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        summary: "{{fields.tag}}"
+        field: { label: Tag, name: tag, widget: string }
+      - { label: Start, name: start, widget: datetime, date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: End, name: end, widget: datetime, required: false, date_format: "YYYY-MM-DD", time_format: "HH:mm" }
+      - { label: Location, name: location, widget: string, required: false }
+      - { label: Address, name: address, widget: string, required: false }
+      - { label: Link, name: link, widget: string, required: false }
+      - { label: Preview image, name: preview_image, widget: image, required: false }
+      - { label: Description, name: description, widget: markdown, required: false }
+      - { label: Featured, name: featured, widget: boolean, required: false, default: false }
