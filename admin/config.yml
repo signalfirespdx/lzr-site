@@ -4,8 +4,8 @@ backend:
   name: github
   repo: user/repo
 
-media_folder: /static/media
-public_folder: /media
+media_folder: /public
+public_folder: /public
 
 collections:
   - name: categories
@@ -50,10 +50,11 @@ collections:
         name: tags
         widget: list
         summary: "{{fields.tag}}"
+        required: false
         field: { label: Tag, name: tag, widget: string }
       - { label: File, name: file, widget: file }
       - { label: Preview image, name: preview_image, widget: image, required: false }
-      - { label: Description, name: description, widget: markdown }
+      - { label: Description, name: description, widget: markdown, required: false}
 
   - name: events
     label: Upcoming Events

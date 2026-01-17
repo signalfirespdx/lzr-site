@@ -10,20 +10,16 @@
       "_web-8brcLJOj.js"
     ]
   },
-  "_preload-helper-ug3pwPZ1.js": {
-    "file": "assets/preload-helper-ug3pwPZ1.js",
-    "name": "preload-helper"
-  },
-  "_routes-B7eShwfZ.js": {
-    "file": "assets/routes-B7eShwfZ.js",
-    "name": "routes",
+  "_preload-helper-B3fWHCoF.js": {
+    "file": "assets/preload-helper-B3fWHCoF.js",
+    "name": "preload-helper",
     "imports": [
       "_web-8brcLJOj.js"
     ]
   },
-  "_routing-BFwPgwdA.js": {
-    "file": "assets/routing-BFwPgwdA.js",
-    "name": "routing",
+  "_routes-B7eShwfZ.js": {
+    "file": "assets/routes-B7eShwfZ.js",
+    "name": "routes",
     "imports": [
       "_web-8brcLJOj.js"
     ]
@@ -33,7 +29,7 @@
     "name": "web"
   },
   "content/categories/anti-racism.md": {
-    "file": "assets/anti-racism-C4xmpE7A.js",
+    "file": "assets/anti-racism-BIfsNXVK.js",
     "name": "anti-racism",
     "src": "content/categories/anti-racism.md",
     "isDynamicEntry": true,
@@ -43,7 +39,7 @@
     ]
   },
   "content/categories/community.md": {
-    "file": "assets/community-Db0gKb_I.js",
+    "file": "assets/community-CkoYHCKx.js",
     "name": "community",
     "src": "content/categories/community.md",
     "isDynamicEntry": true,
@@ -52,8 +48,28 @@
       "_web-8brcLJOj.js"
     ]
   },
+  "content/zines/how-to-be-actively-anti-racist.md": {
+    "file": "assets/how-to-be-actively-anti-racist-CKgsZegL.js",
+    "name": "how-to-be-actively-anti-racist",
+    "src": "content/zines/how-to-be-actively-anti-racist.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js"
+    ]
+  },
+  "content/zines/sisters-not-yet.md": {
+    "file": "assets/sisters-not-yet-451_9H3i.js",
+    "name": "sisters-not-yet",
+    "src": "content/zines/sisters-not-yet.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-CDWKYin1.js",
+      "_web-8brcLJOj.js"
+    ]
+  },
   "src/routes/[...404].mdx?pick=$css": {
-    "file": "assets/_...404_-CxR8xLwF.js",
+    "file": "assets/_...404_-DTEiYY4b.js",
     "name": "_...404_",
     "src": "src/routes/[...404].mdx?pick=$css",
     "isEntry": true,
@@ -65,7 +81,7 @@
     ]
   },
   "src/routes/about.mdx?pick=$css": {
-    "file": "assets/about-CqXDowpk.js",
+    "file": "assets/about-BXoxt1yI.js",
     "name": "about",
     "src": "src/routes/about.mdx?pick=$css",
     "isEntry": true,
@@ -76,16 +92,15 @@
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-Bpf5CWgz.js",
+    "file": "assets/index-Ddm09Cil.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_preload-helper-ug3pwPZ1.js",
+      "_preload-helper-B3fWHCoF.js",
       "_web-8brcLJOj.js",
-      "_routes-B7eShwfZ.js",
-      "_routing-BFwPgwdA.js"
+      "_routes-B7eShwfZ.js"
     ],
     "dynamicImports": [
       "content/categories/anti-racism.md",
@@ -96,26 +111,29 @@
     ]
   },
   "src/routes/zines/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-Cio9Yeaw.js",
+    "file": "assets/index-DUdgF7zH.js",
     "name": "index",
     "src": "src/routes/zines/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
+      "_preload-helper-B3fWHCoF.js",
       "_web-8brcLJOj.js",
-      "_routes-B7eShwfZ.js",
-      "_routing-BFwPgwdA.js"
+      "_routes-B7eShwfZ.js"
+    ],
+    "dynamicImports": [
+      "content/zines/how-to-be-actively-anti-racist.md",
+      "content/zines/sisters-not-yet.md"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-BCZZVy9i.js",
+    "file": "assets/client-CaeMYziq.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
       "_web-8brcLJOj.js",
-      "_preload-helper-ug3pwPZ1.js",
-      "_routing-BFwPgwdA.js",
+      "_preload-helper-B3fWHCoF.js",
       "_index-CDWKYin1.js",
       "_HttpStatusCode-DjTx85av.js"
     ],
@@ -126,7 +144,7 @@
       "src/routes/zines/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-Dj8gJexw.css"
+      "assets/client-D-5u-awt.css"
     ]
   }
 }
