@@ -3,104 +3,113 @@
     "file": "assets/HttpStatusCode-DjTx85av.js",
     "name": "HttpStatusCode"
   },
-  "_index-CDWKYin1.js": {
-    "file": "assets/index-CDWKYin1.js",
+  "_components-CbDvYsY7.js": {
+    "file": "assets/components-CbDvYsY7.js",
+    "name": "components",
+    "imports": [
+      "_web-Du1_VWYB.js",
+      "_preload-helper-mc5y2fsN.js"
+    ]
+  },
+  "_index-B0fJnbg2.js": {
+    "file": "assets/index-B0fJnbg2.js",
     "name": "index",
     "imports": [
-      "_web-8brcLJOj.js"
+      "_web-Du1_VWYB.js"
     ]
   },
-  "_preload-helper-B3fWHCoF.js": {
-    "file": "assets/preload-helper-B3fWHCoF.js",
+  "_preload-helper-mc5y2fsN.js": {
+    "file": "assets/preload-helper-mc5y2fsN.js",
     "name": "preload-helper",
     "imports": [
-      "_web-8brcLJOj.js"
+      "_web-Du1_VWYB.js"
     ]
   },
-  "_routes-B7eShwfZ.js": {
-    "file": "assets/routes-B7eShwfZ.js",
+  "_routes-CjgTYYvT.js": {
+    "file": "assets/routes-CjgTYYvT.js",
     "name": "routes",
     "imports": [
-      "_web-8brcLJOj.js"
+      "_web-Du1_VWYB.js"
     ]
   },
-  "_web-8brcLJOj.js": {
-    "file": "assets/web-8brcLJOj.js",
+  "_web-Du1_VWYB.js": {
+    "file": "assets/web-Du1_VWYB.js",
     "name": "web"
   },
   "content/categories/anti-racism.md": {
-    "file": "assets/anti-racism-BIfsNXVK.js",
+    "file": "assets/anti-racism-BEDRX0pT.js",
     "name": "anti-racism",
     "src": "content/categories/anti-racism.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js"
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js"
     ]
   },
   "content/categories/community.md": {
-    "file": "assets/community-CkoYHCKx.js",
+    "file": "assets/community-CY8bZJaF.js",
     "name": "community",
     "src": "content/categories/community.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js"
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js"
     ]
   },
   "content/zines/how-to-be-actively-anti-racist.md": {
-    "file": "assets/how-to-be-actively-anti-racist-CKgsZegL.js",
+    "file": "assets/how-to-be-actively-anti-racist-B8L-L4te.js",
     "name": "how-to-be-actively-anti-racist",
     "src": "content/zines/how-to-be-actively-anti-racist.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js"
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js"
     ]
   },
   "content/zines/sisters-not-yet.md": {
-    "file": "assets/sisters-not-yet-451_9H3i.js",
+    "file": "assets/sisters-not-yet-BKQC87M3.js",
     "name": "sisters-not-yet",
     "src": "content/zines/sisters-not-yet.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js"
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js"
     ]
   },
   "src/routes/[...404].mdx?pick=$css": {
-    "file": "assets/_...404_-DTEiYY4b.js",
+    "file": "assets/_...404_-MY1a79XF.js",
     "name": "_...404_",
     "src": "src/routes/[...404].mdx?pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js",
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js",
       "_HttpStatusCode-DjTx85av.js"
     ]
   },
   "src/routes/about.mdx?pick=$css": {
-    "file": "assets/about-BXoxt1yI.js",
+    "file": "assets/about-D4jCbKif.js",
     "name": "about",
     "src": "src/routes/about.mdx?pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-CDWKYin1.js",
-      "_web-8brcLJOj.js"
+      "_index-B0fJnbg2.js",
+      "_web-Du1_VWYB.js"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-Ddm09Cil.js",
+    "file": "assets/index-ksqd35Dd.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_preload-helper-B3fWHCoF.js",
-      "_web-8brcLJOj.js",
-      "_routes-B7eShwfZ.js"
+      "_preload-helper-mc5y2fsN.js",
+      "_web-Du1_VWYB.js",
+      "_routes-CjgTYYvT.js",
+      "_components-CbDvYsY7.js"
     ],
     "dynamicImports": [
       "content/categories/anti-racism.md",
@@ -110,16 +119,32 @@
       "assets/index-B_rxnpnF.css"
     ]
   },
+  "src/routes/zine/[name]/index.tsx?pick=default&pick=$css": {
+    "file": "assets/index-DuuYXCm6.js",
+    "name": "index",
+    "src": "src/routes/zine/[name]/index.tsx?pick=default&pick=$css",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_preload-helper-mc5y2fsN.js",
+      "_web-Du1_VWYB.js"
+    ],
+    "dynamicImports": [
+      "content/zines/how-to-be-actively-anti-racist.md",
+      "content/zines/sisters-not-yet.md"
+    ]
+  },
   "src/routes/zines/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-DUdgF7zH.js",
+    "file": "assets/index-Bi9T5zHn.js",
     "name": "index",
     "src": "src/routes/zines/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_preload-helper-B3fWHCoF.js",
-      "_web-8brcLJOj.js",
-      "_routes-B7eShwfZ.js"
+      "_preload-helper-mc5y2fsN.js",
+      "_web-Du1_VWYB.js",
+      "_routes-CjgTYYvT.js",
+      "_components-CbDvYsY7.js"
     ],
     "dynamicImports": [
       "content/zines/how-to-be-actively-anti-racist.md",
@@ -127,24 +152,26 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-CaeMYziq.js",
+    "file": "assets/client-Bf2SR0ZA.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_web-8brcLJOj.js",
-      "_preload-helper-B3fWHCoF.js",
-      "_index-CDWKYin1.js",
+      "_web-Du1_VWYB.js",
+      "_preload-helper-mc5y2fsN.js",
+      "_components-CbDvYsY7.js",
+      "_index-B0fJnbg2.js",
       "_HttpStatusCode-DjTx85av.js"
     ],
     "dynamicImports": [
       "src/routes/[...404].mdx?pick=$css",
       "src/routes/about.mdx?pick=$css",
       "src/routes/index.tsx?pick=default&pick=$css",
+      "src/routes/zine/[name]/index.tsx?pick=default&pick=$css",
       "src/routes/zines/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-D-5u-awt.css"
+      "assets/client-DzhUBq_q.css"
     ]
   }
 }

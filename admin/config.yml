@@ -5,7 +5,7 @@ backend:
   repo: user/repo
 
 media_folder: /public
-public_folder: /public
+public_folder: /
 
 collections:
   - name: categories
