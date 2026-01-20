@@ -37,7 +37,7 @@
     "name": "web"
   },
   "content/categories/anti-racism.md": {
-    "file": "assets/anti-racism-BDh6a1hC.js",
+    "file": "assets/anti-racism-DcMh6_Hq.js",
     "name": "anti-racism",
     "src": "content/categories/anti-racism.md",
     "isDynamicEntry": true,
@@ -47,7 +47,7 @@
     ]
   },
   "content/categories/community.md": {
-    "file": "assets/community-D0_q05Qb.js",
+    "file": "assets/community-Bd2bO6mM.js",
     "name": "community",
     "src": "content/categories/community.md",
     "isDynamicEntry": true,
@@ -57,7 +57,7 @@
     ]
   },
   "content/zines/how-to-be-actively-anti-racist.md": {
-    "file": "assets/how-to-be-actively-anti-racist-DMcsDr5o.js",
+    "file": "assets/how-to-be-actively-anti-racist-w5pbWUyv.js",
     "name": "how-to-be-actively-anti-racist",
     "src": "content/zines/how-to-be-actively-anti-racist.md",
     "isDynamicEntry": true,
@@ -67,7 +67,7 @@
     ]
   },
   "content/zines/sisters-not-yet.md": {
-    "file": "assets/sisters-not-yet-Bfm11j8x.js",
+    "file": "assets/sisters-not-yet-Dgi8EX6L.js",
     "name": "sisters-not-yet",
     "src": "content/zines/sisters-not-yet.md",
     "isDynamicEntry": true,
@@ -77,7 +77,7 @@
     ]
   },
   "src/routes/[...404].mdx?pick=$css": {
-    "file": "assets/_...404_-CKYFj5S7.js",
+    "file": "assets/_...404_-DfLLXRjn.js",
     "name": "_...404_",
     "src": "src/routes/[...404].mdx?pick=$css",
     "isEntry": true,
@@ -89,7 +89,7 @@
     ]
   },
   "src/routes/about.mdx?pick=$css": {
-    "file": "assets/about-T8ybM2uU.js",
+    "file": "assets/about-qgKei5zY.js",
     "name": "about",
     "src": "src/routes/about.mdx?pick=$css",
     "isEntry": true,
@@ -100,7 +100,7 @@
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-DR_8pvbj.js",
+    "file": "assets/index-Bqs4_Qzs.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -120,7 +120,7 @@
     ]
   },
   "src/routes/zine/[name]/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-_SkL2nLa.js",
+    "file": "assets/index-C0EzTQUk.js",
     "name": "index",
     "src": "src/routes/zine/[name]/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -135,7 +135,7 @@
     ]
   },
   "src/routes/zines/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-D_Ob2lDu.js",
+    "file": "assets/index-UUoyaxTN.js",
     "name": "index",
     "src": "src/routes/zines/index.tsx?pick=default&pick=$css",
     "isEntry": true,
@@ -152,7 +152,7 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-qKxKwZyh.js",
+    "file": "assets/client-BX4Ah9qE.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
