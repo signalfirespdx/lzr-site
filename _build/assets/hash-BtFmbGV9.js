@@ -1,0 +1,1 @@
+function r(F){let n=0;for(let t=0;t<F.length;t++)n=(n<<5)-n+F.charCodeAt(t),n|=0;return n>>>0}function e(F,n){return r(F)%n}function c(F,n){if(!n?.length)return F[0];const t=e(n,F.length)%F.length;return F[t]}const h=["#FF0033","#00FF66","#00E5FF","#0066FF","#8B5CFF","#FF2BD4","#FFB000","#00FFC8"];export{h as c,c as p};

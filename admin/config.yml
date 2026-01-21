@@ -52,6 +52,22 @@ collections:
         summary: "{{fields.tag}}"
         required: false
         field: { label: Tag, name: tag, widget: string }
+      - label: Folding style
+        name: folding_style
+        widget: select
+        required: false
+        options:
+          - "1-sided 8pg mini"
+          - "1-sided 8pg-alt mini"
+          - "1-sided 1pg"
+          - "1-sided quarter"
+          - "trifold"
+          - "2-sided trifold"
+          - "2-sided trifold short-side"
+          - "2-sided 16pg mini"
+          - "2-sided half"
+          - "2-sided 8pg"
+          - "2-sided 8pg up"
       - { label: File, name: file, widget: file }
       - { label: Preview image, name: preview_image, widget: image, required: false }
       - { label: Description, name: description, widget: markdown, required: false}
