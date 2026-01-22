@@ -73,7 +73,7 @@ collections:
       - { label: Description, name: description, widget: markdown, required: false}
 
   - name: events
-    label: Upcoming Events
+    label: Events
     folder: /content/events
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
