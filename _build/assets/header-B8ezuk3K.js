@@ -1,1 +1,0 @@
-import{i as t,t as r,l as n,b as s,B as o,J as c}from"./web-B2jywrhc.js";import{A as i}from"./components-Drd6ZRsq.js";const l="_container_91yam_1",m={container:l};var f=r("<h1>LZR"),p=r("<header><div class=flex>");function h(){return(()=>{var e=t(p),a=e.firstChild;return n(a,s(i,{href:"/",get children(){return t(f)}})),o(()=>c(e,m.container)),e})()}export{h as H};
