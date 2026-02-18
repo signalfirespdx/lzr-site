@@ -7,6 +7,11 @@ backend:
 media_folder: /public
 public_folder: /
 
+media_libraries:
+  default:
+    config:
+      slugify_filename: true
+
 collections:
   - name: categories
     label: Categories
@@ -68,8 +73,8 @@ collections:
           - "2-sided half"
           - "2-sided 8pg"
           - "2-sided 8pg up"
+      - { label: Preview image, name: preview_image, widget: image }
       - { label: File, name: file, widget: file }
-      - { label: Preview image, name: preview_image, widget: image, required: false }
       - { label: Description, name: description, widget: markdown, required: false}
 
   - name: events
@@ -94,3 +99,11 @@ collections:
       - { label: Preview image, name: preview_image, widget: image, required: false }
       - { label: Description, name: description, widget: markdown, required: false }
       - { label: Featured, name: featured, widget: boolean, required: false, default: false }
+      
+  - name: sites
+    label: Sites
+    folder: /content/sites
+    create: true
+    fields:
+      - { label: Name, name: name, widget: string }
+      - { label: url, name: url, widget: string}
