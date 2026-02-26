@@ -131,9 +131,11 @@ collections:
     label: Sites
     folder: /content/sites
     create: true
+    sortable_fields: ["order", "name"]
     fields:
       - { label: Name, name: name, widget: string }
-      - { label: url, name: url, widget: string}
+      - { label: Url, name: url, widget: string}
+      - { label: Order, name: order, widget: number }
       
   - name: email-templates
     label: Email Templates
