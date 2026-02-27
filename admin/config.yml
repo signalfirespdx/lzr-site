@@ -145,9 +145,11 @@ collections:
       - { label: Name, name: name, widget: string, readonly: false }
       - { label: Subject, name: subject, widget: string }
       - { label: Body, name: email_body, widget: text }
+      
   - name: gallery-images
     label: Gallery
     folder: /content/gallery-images
+    summary: "{{fields.alt}}"
     create: true
     fields:
       - { label: Image, name: image, widget: image }
