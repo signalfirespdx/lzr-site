@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lzr.life//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Azn Zine Fest
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-02-27-azn-zine-fest@lzr.life
+DTSTAMP:20260227T233553Z
+DTSTART;TZID=America/Los_Angeles:20260228T120000
+DTEND;TZID=America/Los_Angeles:20260228T170000
+SUMMARY:Azn Zine Fest
+LOCATION:Fubonn Shopping Center — 2850 SE 82nd Ave\, Portland\, OR 97266
+URL:https://aznzinefest.tumblr.com/
+DESCRIPTION:who\n- all are welcome & free to attend! (masks provided\, required\, seen as an act of care <3)\n- over 100 azn zinesters (https://aznzinefest.tumblr.com/vendors) are coming to inspire you with their art and zines\\~\n- organized by local pdx azn folk: Envy Estacio\, Yoko O.K.\, A’misa Chiu\, Sarah Joy Calpo\, Julia Kim\, Natalie Soutonglang\, & SJ Anderson\n\nSpecial Thanks\n\nazn zine fest is honored and grateful to be one of 13 amazing projects that was selected to be a 2026 Precipice Fund grant recipient through PICA PDX (https://www.pica.org/precipice-fund) \\~ it’s such a surreal thing to be able to represent azn creatives in Portland thru this DIY project\, and for zines in contemporary art spaces! <3\n\nhttps://aznzinefest.tumblr.com/\n\nCategory: Zine Fest
+CATEGORIES:Zine Fest
+END:VEVENT
+END:VCALENDAR

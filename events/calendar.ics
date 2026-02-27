@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-02-25-whistle-wednesdays@lzr.life
-DTSTAMP:20260227T181138Z
+DTSTAMP:20260227T233553Z
 DTSTART;TZID=America/Los_Angeles:20260204T180000
 DTEND;TZID=America/Los_Angeles:20260204T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -32,5 +32,16 @@ SUMMARY:Whistle Wednesdays
 LOCATION:Lucky Lab — 915 SE Hawthorne Blvd\, Portland\, OR 97214
 DESCRIPTION:Make anti-ICE whistle kits with Rainbow Bloc\n\nFold zines with Little Zine Revolution\n\nDonate shelf-stable food & winter supplies for mutual aid:\n- blankets\n- coats\n- tarps\n- gloves\n- hats\n- waterproof gear\n\nMasks required & provided\n\nAll ages welcome\n\nCategory: RAINBOW BLOC
 CATEGORIES:RAINBOW BLOC
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-02-27-azn-zine-fest@lzr.life
+DTSTAMP:20260227T233553Z
+DTSTART;TZID=America/Los_Angeles:20260228T120000
+DTEND;TZID=America/Los_Angeles:20260228T170000
+SUMMARY:Azn Zine Fest
+LOCATION:Fubonn Shopping Center — 2850 SE 82nd Ave\, Portland\, OR 97266
+URL:https://aznzinefest.tumblr.com/
+DESCRIPTION:who\n- all are welcome & free to attend! (masks provided\, required\, seen as an act of care <3)\n- over 100 azn zinesters (https://aznzinefest.tumblr.com/vendors) are coming to inspire you with their art and zines\\~\n- organized by local pdx azn folk: Envy Estacio\, Yoko O.K.\, A’misa Chiu\, Sarah Joy Calpo\, Julia Kim\, Natalie Soutonglang\, & SJ Anderson\n\nSpecial Thanks\n\nazn zine fest is honored and grateful to be one of 13 amazing projects that was selected to be a 2026 Precipice Fund grant recipient through PICA PDX (https://www.pica.org/precipice-fund) \\~ it’s such a surreal thing to be able to represent azn creatives in Portland thru this DIY project\, and for zines in contemporary art spaces! <3\n\nhttps://aznzinefest.tumblr.com/\n\nCategory: Zine Fest
+CATEGORIES:Zine Fest
 END:VEVENT
 END:VCALENDAR

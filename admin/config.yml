@@ -6,6 +6,7 @@ backend:
 
 media_folder: /public
 public_folder: /
+app_title: LZR Site Admin
 
 media_libraries:
   default:
