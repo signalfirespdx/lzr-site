@@ -7,26 +7,26 @@
     "file": "assets/hash-BtFmbGV9.js",
     "name": "hash"
   },
-  "_index-D18GSY5u.js": {
-    "file": "assets/index-D18GSY5u.js",
+  "_index-DfQ78pin.js": {
+    "file": "assets/index-DfQ78pin.js",
     "name": "index",
     "imports": [
-      "_web-q2UdLfRo.js"
+      "_web-NfXTu61L.js"
     ]
   },
-  "_index-DfFVPtjD.js": {
-    "file": "assets/index-DfFVPtjD.js",
+  "_index-PgV2X1eG.js": {
+    "file": "assets/index-PgV2X1eG.js",
     "name": "index",
     "imports": [
-      "_web-q2UdLfRo.js"
+      "_web-NfXTu61L.js"
     ]
   },
-  "_meta-tags-Bruu2h5D.js": {
-    "file": "assets/meta-tags-Bruu2h5D.js",
+  "_meta-tags-DSrOf5_X.js": {
+    "file": "assets/meta-tags-DSrOf5_X.js",
     "name": "meta-tags",
     "imports": [
-      "_web-q2UdLfRo.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_index-DfQ78pin.js"
     ],
     "css": [
       "assets/meta-tags-s24HogM7.css"
@@ -40,885 +40,885 @@
     "file": "assets/preload-helper-ug3pwPZ1.js",
     "name": "preload-helper"
   },
-  "_routes-CJAQlna1.js": {
-    "file": "assets/routes-CJAQlna1.js",
+  "_routes-D9CfzYpz.js": {
+    "file": "assets/routes-D9CfzYpz.js",
     "name": "routes",
     "imports": [
-      "_web-q2UdLfRo.js"
+      "_web-NfXTu61L.js"
     ]
   },
-  "_web-q2UdLfRo.js": {
-    "file": "assets/web-q2UdLfRo.js",
+  "_web-NfXTu61L.js": {
+    "file": "assets/web-NfXTu61L.js",
     "name": "web"
   },
   "content/categories/Anti-Racism.md": {
-    "file": "assets/Anti-Racism-Dg1f0kUS.js",
+    "file": "assets/Anti-Racism-BZcrGid-.js",
     "name": "Anti-Racism",
     "src": "content/categories/Anti-Racism.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Community.md": {
-    "file": "assets/Community-C9sJ9RWj.js",
+    "file": "assets/Community-C8aUoMgV.js",
     "name": "Community",
     "src": "content/categories/Community.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Congo.md": {
-    "file": "assets/Congo-DfU3zWn9.js",
+    "file": "assets/Congo-DdCRfOO3.js",
     "name": "Congo",
     "src": "content/categories/Congo.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Decolonization.md": {
-    "file": "assets/Decolonization-sBow1PGN.js",
+    "file": "assets/Decolonization-TGfFMpaG.js",
     "name": "Decolonization",
     "src": "content/categories/Decolonization.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/ICE.md": {
-    "file": "assets/ICE-8WPltbEm.js",
+    "file": "assets/ICE-FcYaaExm.js",
     "name": "ICE",
     "src": "content/categories/ICE.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Inspiration.md": {
-    "file": "assets/Inspiration-BtsYPdEw.js",
+    "file": "assets/Inspiration-C-dqQENQ.js",
     "name": "Inspiration",
     "src": "content/categories/Inspiration.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Palestine.md": {
-    "file": "assets/Palestine-CHSiwPeR.js",
+    "file": "assets/Palestine-BqBNpTs9.js",
     "name": "Palestine",
     "src": "content/categories/Palestine.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Sudan.md": {
-    "file": "assets/Sudan-eBylvovr.js",
+    "file": "assets/Sudan-CG1L1Umx.js",
     "name": "Sudan",
     "src": "content/categories/Sudan.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/categories/Systemic Oppression.md": {
-    "file": "assets/Systemic Oppression-D5ZVPwlH.js",
+    "file": "assets/Systemic Oppression-Y5djaRy-.js",
     "name": "Systemic Oppression",
     "src": "content/categories/Systemic Oppression.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/events/2026-02-25-whistle-wednesdays.md": {
-    "file": "assets/2026-02-25-whistle-wednesdays-DCi4Cxj_.js",
+    "file": "assets/2026-02-25-whistle-wednesdays-DSdUm_pD.js",
     "name": "2026-02-25-whistle-wednesdays",
     "src": "content/events/2026-02-25-whistle-wednesdays.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/gallery-images/49263ee6b712.md": {
-    "file": "assets/49263ee6b712-C7Kpw9al.js",
+    "file": "assets/49263ee6b712-s1Skm42U.js",
     "name": "49263ee6b712",
     "src": "content/gallery-images/49263ee6b712.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/gallery-images/76a23dee62ac.md": {
-    "file": "assets/76a23dee62ac-Cn4lXJjs.js",
+    "file": "assets/76a23dee62ac-CcyNcEZF.js",
     "name": "76a23dee62ac",
     "src": "content/gallery-images/76a23dee62ac.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/gallery-images/b7d03d878da0.md": {
-    "file": "assets/b7d03d878da0-B9ypnuBx.js",
+    "file": "assets/b7d03d878da0-CAlhDQB5.js",
     "name": "b7d03d878da0",
     "src": "content/gallery-images/b7d03d878da0.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/gallery-images/e1a86deb2b8d.md": {
-    "file": "assets/e1a86deb2b8d-D-oP3dXV.js",
+    "file": "assets/e1a86deb2b8d-__4FF1Yj.js",
     "name": "e1a86deb2b8d",
     "src": "content/gallery-images/e1a86deb2b8d.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/gallery-images/f20e7aed6441.md": {
-    "file": "assets/f20e7aed6441-CdlD3FNk.js",
+    "file": "assets/f20e7aed6441-C8fgYkmG.js",
     "name": "f20e7aed6441",
     "src": "content/gallery-images/f20e7aed6441.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/32a95ac8bd1f.md": {
-    "file": "assets/32a95ac8bd1f-CjcxL7GW.js",
+    "file": "assets/32a95ac8bd1f-CNw5uHDA.js",
     "name": "32a95ac8bd1f",
     "src": "content/sites/32a95ac8bd1f.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/61398437f222.md": {
-    "file": "assets/61398437f222-jBvlGYwg.js",
+    "file": "assets/61398437f222-Dn0OZysQ.js",
     "name": "61398437f222",
     "src": "content/sites/61398437f222.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/6abdb1bd9b87.md": {
-    "file": "assets/6abdb1bd9b87-Bx9ow5n2.js",
+    "file": "assets/6abdb1bd9b87-Crob4u-h.js",
     "name": "6abdb1bd9b87",
     "src": "content/sites/6abdb1bd9b87.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/95165829e62e.md": {
-    "file": "assets/95165829e62e-CFJ_Ac_r.js",
+    "file": "assets/95165829e62e-DWVIDeTt.js",
     "name": "95165829e62e",
     "src": "content/sites/95165829e62e.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/953d43523bdc.md": {
-    "file": "assets/953d43523bdc-BAyNUXT3.js",
+    "file": "assets/953d43523bdc-C7fdharS.js",
     "name": "953d43523bdc",
     "src": "content/sites/953d43523bdc.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/a701112ab64c.md": {
-    "file": "assets/a701112ab64c-BnVEBk6m.js",
+    "file": "assets/a701112ab64c-k820bqCb.js",
     "name": "a701112ab64c",
     "src": "content/sites/a701112ab64c.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/bbd05550d3b6.md": {
-    "file": "assets/bbd05550d3b6-B1QV8fXS.js",
+    "file": "assets/bbd05550d3b6-NMvf9ZYD.js",
     "name": "bbd05550d3b6",
     "src": "content/sites/bbd05550d3b6.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/sites/e0fe6ec8e5c8.md": {
-    "file": "assets/e0fe6ec8e5c8-4e8xvBEs.js",
+    "file": "assets/e0fe6ec8e5c8-BRzzXWGg.js",
     "name": "e0fe6ec8e5c8",
     "src": "content/sites/e0fe6ec8e5c8.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/18mr-for-the-love-of-bread.md": {
-    "file": "assets/18mr-for-the-love-of-bread-CCOjdSVq.js",
+    "file": "assets/18mr-for-the-love-of-bread-DbPmI0jn.js",
     "name": "18mr-for-the-love-of-bread",
     "src": "content/zines/18mr-for-the-love-of-bread.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/8-things-you-can-do-to-stop-ice-print-black-and-white.md": {
-    "file": "assets/8-things-you-can-do-to-stop-ice-print-black-and-white-C_hrtJSX.js",
+    "file": "assets/8-things-you-can-do-to-stop-ice-print-black-and-white-DEWcj4oJ.js",
     "name": "8-things-you-can-do-to-stop-ice-print-black-and-white",
     "src": "content/zines/8-things-you-can-do-to-stop-ice-print-black-and-white.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/a-manifesto-for-monstrous-times.md": {
-    "file": "assets/a-manifesto-for-monstrous-times-Fqajcd4D.js",
+    "file": "assets/a-manifesto-for-monstrous-times-9x8DWLru.js",
     "name": "a-manifesto-for-monstrous-times",
     "src": "content/zines/a-manifesto-for-monstrous-times.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/abcs-of-occupation.md": {
-    "file": "assets/abcs-of-occupation-CFlI_TLW.js",
+    "file": "assets/abcs-of-occupation-BjK0hyR_.js",
     "name": "abcs-of-occupation",
     "src": "content/zines/abcs-of-occupation.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/all-we-have-is-each-other.md": {
-    "file": "assets/all-we-have-is-each-other-BBuBMeus.js",
+    "file": "assets/all-we-have-is-each-other-W7P-u6KX.js",
     "name": "all-we-have-is-each-other",
     "src": "content/zines/all-we-have-is-each-other.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/anarchist-compass.md": {
-    "file": "assets/anarchist-compass-CLuDSG-d.js",
+    "file": "assets/anarchist-compass-Cv8lB-ob.js",
     "name": "anarchist-compass",
     "src": "content/zines/anarchist-compass.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/anarcoloring-book.md": {
-    "file": "assets/anarcoloring-book-gJLhbI3-.js",
+    "file": "assets/anarcoloring-book-Bnk0ozpU.js",
     "name": "anarcoloring-book",
     "src": "content/zines/anarcoloring-book.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/ancestors-of-the-rainbow.md": {
-    "file": "assets/ancestors-of-the-rainbow-BDe0zoT1.js",
+    "file": "assets/ancestors-of-the-rainbow-Bnh1E64s.js",
     "name": "ancestors-of-the-rainbow",
     "src": "content/zines/ancestors-of-the-rainbow.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/anti-zionism-faq.md": {
-    "file": "assets/anti-zionism-faq-CojK3jmE.js",
+    "file": "assets/anti-zionism-faq-BjNqU0iH.js",
     "name": "anti-zionism-faq",
     "src": "content/zines/anti-zionism-faq.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/bds-what-it-is-why-it-matters.md": {
-    "file": "assets/bds-what-it-is-why-it-matters-jIc83cAj.js",
+    "file": "assets/bds-what-it-is-why-it-matters-D0EwXuhb.js",
     "name": "bds-what-it-is-why-it-matters",
     "src": "content/zines/bds-what-it-is-why-it-matters.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/begin-by-doing-small-things.md": {
-    "file": "assets/begin-by-doing-small-things-Bg-AHmfS.js",
+    "file": "assets/begin-by-doing-small-things-7XkOJv8Y.js",
     "name": "begin-by-doing-small-things",
     "src": "content/zines/begin-by-doing-small-things.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/billionaires.md": {
-    "file": "assets/billionaires-BB1IjQT0.js",
+    "file": "assets/billionaires-DQs6Kpox.js",
     "name": "billionaires",
     "src": "content/zines/billionaires.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/butterfly.md": {
-    "file": "assets/butterfly-SZnD2Y3V.js",
+    "file": "assets/butterfly-B__JkMD0.js",
     "name": "butterfly",
     "src": "content/zines/butterfly.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/cointelpro.md": {
-    "file": "assets/cointelpro-CQm-cXsw.js",
+    "file": "assets/cointelpro-DSvGKTcl.js",
     "name": "cointelpro",
     "src": "content/zines/cointelpro.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/congofriends-the-planet-s-second-lung-is-congo.md": {
-    "file": "assets/congofriends-the-planet-s-second-lung-is-congo-DpFWRD6J.js",
+    "file": "assets/congofriends-the-planet-s-second-lung-is-congo-DeP2U2K8.js",
     "name": "congofriends-the-planet-s-second-lung-is-congo",
     "src": "content/zines/congofriends-the-planet-s-second-lung-is-congo.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/decolonization-is-a-practice.md": {
-    "file": "assets/decolonization-is-a-practice-CYSS2avv.js",
+    "file": "assets/decolonization-is-a-practice-DANXjDbO.js",
     "name": "decolonization-is-a-practice",
     "src": "content/zines/decolonization-is-a-practice.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/decolonize-101.md": {
-    "file": "assets/decolonize-101-DvfDjiyV.js",
+    "file": "assets/decolonize-101-BwvdR52b.js",
     "name": "decolonize-101",
     "src": "content/zines/decolonize-101.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/decolonize-your-mind.md": {
-    "file": "assets/decolonize-your-mind-Cb81u6ik.js",
+    "file": "assets/decolonize-your-mind-CUAfOnEm.js",
     "name": "decolonize-your-mind",
     "src": "content/zines/decolonize-your-mind.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/don-t-just-do-nothing-to-counter-fascism.md": {
-    "file": "assets/don-t-just-do-nothing-to-counter-fascism-ViuZfG6Z.js",
+    "file": "assets/don-t-just-do-nothing-to-counter-fascism-BJEwV3LY.js",
     "name": "don-t-just-do-nothing-to-counter-fascism",
     "src": "content/zines/don-t-just-do-nothing-to-counter-fascism.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/federal-government-s-growing-banned-words-list-is-chilling-act-of-censorship.md": {
-    "file": "assets/federal-government-s-growing-banned-words-list-is-chilling-act-of-censorship-Ci4beDjW.js",
+    "file": "assets/federal-government-s-growing-banned-words-list-is-chilling-act-of-censorship-CsWhExCL.js",
     "name": "federal-government-s-growing-banned-words-list-is-chilling-act-of-censorship",
     "src": "content/zines/federal-government-s-growing-banned-words-list-is-chilling-act-of-censorship.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/gaza-damage-report-libraries-and-archives.md": {
-    "file": "assets/gaza-damage-report-libraries-and-archives-CEYFA_uI.js",
+    "file": "assets/gaza-damage-report-libraries-and-archives-DffFleUZ.js",
     "name": "gaza-damage-report-libraries-and-archives",
     "src": "content/zines/gaza-damage-report-libraries-and-archives.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/how-to-be-actively-anti-racist.md": {
-    "file": "assets/how-to-be-actively-anti-racist-DMe__d3b.js",
+    "file": "assets/how-to-be-actively-anti-racist-DARp24V3.js",
     "name": "how-to-be-actively-anti-racist",
     "src": "content/zines/how-to-be-actively-anti-racist.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/how-to-record-feds.md": {
-    "file": "assets/how-to-record-feds-CHpWpYAZ.js",
+    "file": "assets/how-to-record-feds-BcQGTooC.js",
     "name": "how-to-record-feds",
     "src": "content/zines/how-to-record-feds.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/i-am-not-a-tool-of-empire.md": {
-    "file": "assets/i-am-not-a-tool-of-empire-B9KnKS8E.js",
+    "file": "assets/i-am-not-a-tool-of-empire-LqtkdkV0.js",
     "name": "i-am-not-a-tool-of-empire",
     "src": "content/zines/i-am-not-a-tool-of-empire.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/ice-vs-idf.md": {
-    "file": "assets/ice-vs-idf-onKrFvLT.js",
+    "file": "assets/ice-vs-idf-Cl8JoORO.js",
     "name": "ice-vs-idf",
     "src": "content/zines/ice-vs-idf.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/kaddish-for-the-soul-of-judaism.md": {
-    "file": "assets/kaddish-for-the-soul-of-judaism-DXlaBuPi.js",
+    "file": "assets/kaddish-for-the-soul-of-judaism-BjmF3EeH.js",
     "name": "kaddish-for-the-soul-of-judaism",
     "src": "content/zines/kaddish-for-the-soul-of-judaism.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/keep-eyes-heart-and-action-on-sudan.md": {
-    "file": "assets/keep-eyes-heart-and-action-on-sudan-BO52YOo5.js",
+    "file": "assets/keep-eyes-heart-and-action-on-sudan-DtKFC2oD.js",
     "name": "keep-eyes-heart-and-action-on-sudan",
     "src": "content/zines/keep-eyes-heart-and-action-on-sudan.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/locked-in-the-truth-about-private-prisons.md": {
-    "file": "assets/locked-in-the-truth-about-private-prisons-DHeGaM86.js",
+    "file": "assets/locked-in-the-truth-about-private-prisons-JCCuisi8.js",
     "name": "locked-in-the-truth-about-private-prisons",
     "src": "content/zines/locked-in-the-truth-about-private-prisons.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/obedience-is-not-respect.md": {
-    "file": "assets/obedience-is-not-respect-BzI6oGiM.js",
+    "file": "assets/obedience-is-not-respect-BkLsK4Ot.js",
     "name": "obedience-is-not-respect",
     "src": "content/zines/obedience-is-not-respect.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/oregon-workers-rights.md": {
-    "file": "assets/oregon-workers-rights-VieplTE8.js",
+    "file": "assets/oregon-workers-rights-DawRMSTz.js",
     "name": "oregon-workers-rights",
     "src": "content/zines/oregon-workers-rights.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/organizing-for-palestine-solidarity-101.md": {
-    "file": "assets/organizing-for-palestine-solidarity-101-BTgJPSsX.js",
+    "file": "assets/organizing-for-palestine-solidarity-101-CilLkx9Q.js",
     "name": "organizing-for-palestine-solidarity-101",
     "src": "content/zines/organizing-for-palestine-solidarity-101.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/our-little-free-diverse-library.md": {
-    "file": "assets/our-little-free-diverse-library-BQKfU2Is.js",
+    "file": "assets/our-little-free-diverse-library-67Vvlfgw.js",
     "name": "our-little-free-diverse-library",
     "src": "content/zines/our-little-free-diverse-library.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/palestinian-artists.md": {
-    "file": "assets/palestinian-artists-Bx1ntvkT.js",
+    "file": "assets/palestinian-artists-BJIaZi-T.js",
     "name": "palestinian-artists",
     "src": "content/zines/palestinian-artists.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/passive-voice.md": {
-    "file": "assets/passive-voice-Dl1AKZKd.js",
+    "file": "assets/passive-voice-DwnHD2NV.js",
     "name": "passive-voice",
     "src": "content/zines/passive-voice.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pdx-whistle-zine-bilingue.md": {
-    "file": "assets/pdx-whistle-zine-bilingue-bHGfU3FY.js",
+    "file": "assets/pdx-whistle-zine-bilingue-BPKh7L9C.js",
     "name": "pdx-whistle-zine-bilingue",
     "src": "content/zines/pdx-whistle-zine-bilingue.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pdx-whistle-zine-en.md": {
-    "file": "assets/pdx-whistle-zine-en-BvJ_Cay_.js",
+    "file": "assets/pdx-whistle-zine-en-B61InkUK.js",
     "name": "pdx-whistle-zine-en",
     "src": "content/zines/pdx-whistle-zine-en.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pdx-whistle-zine-es.md": {
-    "file": "assets/pdx-whistle-zine-es-DVFvGQhB.js",
+    "file": "assets/pdx-whistle-zine-es-C_Zy5kNL.js",
     "name": "pdx-whistle-zine-es",
     "src": "content/zines/pdx-whistle-zine-es.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/perc-trifold-es.md": {
-    "file": "assets/perc-trifold-es-CvpuJf7G.js",
+    "file": "assets/perc-trifold-es-DA44lLIB.js",
     "name": "perc-trifold-es",
     "src": "content/zines/perc-trifold-es.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pirc-flyer-light.md": {
-    "file": "assets/pirc-flyer-light-BsX1LfKJ.js",
+    "file": "assets/pirc-flyer-light-D-sodsAd.js",
     "name": "pirc-flyer-light",
     "src": "content/zines/pirc-flyer-light.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pirc-flyer.md": {
-    "file": "assets/pirc-flyer-CtNSfTr3.js",
+    "file": "assets/pirc-flyer-BNgq1Uyo.js",
     "name": "pirc-flyer",
     "src": "content/zines/pirc-flyer.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pirc-trifold-en.md": {
-    "file": "assets/pirc-trifold-en-CJ98r7kR.js",
+    "file": "assets/pirc-trifold-en-BHKJpEDO.js",
     "name": "pirc-trifold-en",
     "src": "content/zines/pirc-trifold-en.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/pocket-therapy-2024.md": {
-    "file": "assets/pocket-therapy-2024-BUrRTi_A.js",
+    "file": "assets/pocket-therapy-2024-D8Gu-T4Y.js",
     "name": "pocket-therapy-2024",
     "src": "content/zines/pocket-therapy-2024.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/powell-s-censorship-flyer-quarter.md": {
-    "file": "assets/powell-s-censorship-flyer-quarter-VImbrssp.js",
+    "file": "assets/powell-s-censorship-flyer-quarter-Bp6DbrGJ.js",
     "name": "powell-s-censorship-flyer-quarter",
     "src": "content/zines/powell-s-censorship-flyer-quarter.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/powell-s-censorship-flyer.md": {
-    "file": "assets/powell-s-censorship-flyer-CnJ0BHwv.js",
+    "file": "assets/powell-s-censorship-flyer-BtDB9Egg.js",
     "name": "powell-s-censorship-flyer",
     "src": "content/zines/powell-s-censorship-flyer.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/queer-palestinian-voices.md": {
-    "file": "assets/queer-palestinian-voices-B11veHMZ.js",
+    "file": "assets/queer-palestinian-voices-jEA-ooqm.js",
     "name": "queer-palestinian-voices",
     "src": "content/zines/queer-palestinian-voices.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/queers-wake-up.md": {
-    "file": "assets/queers-wake-up-DBDk3g65.js",
+    "file": "assets/queers-wake-up-BUh0xsII.js",
     "name": "queers-wake-up",
     "src": "content/zines/queers-wake-up.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/simple-sabotage-manual.md": {
-    "file": "assets/simple-sabotage-manual-BM6vq9v3.js",
+    "file": "assets/simple-sabotage-manual-BOk0MN-G.js",
     "name": "simple-sabotage-manual",
     "src": "content/zines/simple-sabotage-manual.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/sisters-not-yet.md": {
-    "file": "assets/sisters-not-yet-Cz4A2TLL.js",
+    "file": "assets/sisters-not-yet-Bia4gXTd.js",
     "name": "sisters-not-yet",
     "src": "content/zines/sisters-not-yet.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/taken.md": {
-    "file": "assets/taken-7P3j6WOz.js",
+    "file": "assets/taken-BxIkr6h_.js",
     "name": "taken",
     "src": "content/zines/taken.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/the-bison-and-the-olive-tree.md": {
-    "file": "assets/the-bison-and-the-olive-tree-CZ35Q-v5.js",
+    "file": "assets/the-bison-and-the-olive-tree-Dum0RBHo.js",
     "name": "the-bison-and-the-olive-tree",
     "src": "content/zines/the-bison-and-the-olive-tree.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/the-truth-about-lies.md": {
-    "file": "assets/the-truth-about-lies-BqczFF09.js",
+    "file": "assets/the-truth-about-lies-DxFTdZz5.js",
     "name": "the-truth-about-lies",
     "src": "content/zines/the-truth-about-lies.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/the-water-you-swim-in.md": {
-    "file": "assets/the-water-you-swim-in-DBhDQhZ_.js",
+    "file": "assets/the-water-you-swim-in-BPLAbbhI.js",
     "name": "the-water-you-swim-in",
     "src": "content/zines/the-water-you-swim-in.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/tkhines-for-palestine.md": {
-    "file": "assets/tkhines-for-palestine-DSMxdcAv.js",
+    "file": "assets/tkhines-for-palestine-BqOaRMmn.js",
     "name": "tkhines-for-palestine",
     "src": "content/zines/tkhines-for-palestine.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/trauma-informed-care.md": {
-    "file": "assets/trauma-informed-care-Bn9J1ZS9.js",
+    "file": "assets/trauma-informed-care-Dgv16xWj.js",
     "name": "trauma-informed-care",
     "src": "content/zines/trauma-informed-care.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/turn-off-your-phone.md": {
-    "file": "assets/turn-off-your-phone-FtBCewuE.js",
+    "file": "assets/turn-off-your-phone-krOIouIA.js",
     "name": "turn-off-your-phone",
     "src": "content/zines/turn-off-your-phone.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/voter-suppression-guide.md": {
-    "file": "assets/voter-suppression-guide-DvUv8OKJ.js",
+    "file": "assets/voter-suppression-guide-CkHFy5nI.js",
     "name": "voter-suppression-guide",
     "src": "content/zines/voter-suppression-guide.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/wa-whistle-zine-bilingue.md": {
-    "file": "assets/wa-whistle-zine-bilingue-BNajhXDg.js",
+    "file": "assets/wa-whistle-zine-bilingue-mYdepm9S.js",
     "name": "wa-whistle-zine-bilingue",
     "src": "content/zines/wa-whistle-zine-bilingue.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/we-have-a-problem.md": {
-    "file": "assets/we-have-a-problem-C3AGKdkA.js",
+    "file": "assets/we-have-a-problem-Cbtv63Yu.js",
     "name": "we-have-a-problem",
     "src": "content/zines/we-have-a-problem.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/we-palestinians-are-not-going-away.md": {
-    "file": "assets/we-palestinians-are-not-going-away-CVCjFKdH.js",
+    "file": "assets/we-palestinians-are-not-going-away-C6pMqLRB.js",
     "name": "we-palestinians-are-not-going-away",
     "src": "content/zines/we-palestinians-are-not-going-away.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/what-is-the-technocracy.md": {
-    "file": "assets/what-is-the-technocracy-DNQuSFMl.js",
+    "file": "assets/what-is-the-technocracy-B0IsUnG2.js",
     "name": "what-is-the-technocracy",
     "src": "content/zines/what-is-the-technocracy.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/what-todo-if-you-want-to-help-palestine-but-don-t-know-where-to-start.md": {
-    "file": "assets/what-todo-if-you-want-to-help-palestine-but-don-t-know-where-to-start-B3709m2P.js",
+    "file": "assets/what-todo-if-you-want-to-help-palestine-but-don-t-know-where-to-start-CM0D4s2-.js",
     "name": "what-todo-if-you-want-to-help-palestine-but-don-t-know-where-to-start",
     "src": "content/zines/what-todo-if-you-want-to-help-palestine-but-don-t-know-where-to-start.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/white-panther-party.md": {
-    "file": "assets/white-panther-party-9E3diAcT.js",
+    "file": "assets/white-panther-party-Dmo_mryC.js",
     "name": "white-panther-party",
     "src": "content/zines/white-panther-party.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/whiteness.md": {
-    "file": "assets/whiteness-Dc9n-Bbr.js",
+    "file": "assets/whiteness-ie-MZtn8.js",
     "name": "whiteness",
     "src": "content/zines/whiteness.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "content/zines/wide-awake-for-gaza.md": {
-    "file": "assets/wide-awake-for-gaza-CjEcNAUT.js",
+    "file": "assets/wide-awake-for-gaza-CYxQFpja.js",
     "name": "wide-awake-for-gaza",
     "src": "content/zines/wide-awake-for-gaza.md",
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "node_modules/.pnpm/@appnest+masonry-layout@2.2.3/node_modules/@appnest/masonry-layout/index.js": {
@@ -928,82 +928,82 @@
     "isDynamicEntry": true
   },
   "src/routes/[...404].mdx?pick=$css": {
-    "file": "assets/_...404_-CdfPkOum.js",
+    "file": "assets/_...404_-Dc4K3DWM.js",
     "name": "_...404_",
     "src": "src/routes/[...404].mdx?pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js",
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js",
       "_HttpStatusCode-DjTx85av.js"
     ]
   },
   "src/routes/about.mdx?pick=$css": {
-    "file": "assets/about-rnxlNTL9.js",
+    "file": "assets/about-DnXkrTtX.js",
     "name": "about",
     "src": "src/routes/about.mdx?pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_index-DfFVPtjD.js",
-      "_web-q2UdLfRo.js"
+      "_index-PgV2X1eG.js",
+      "_web-NfXTu61L.js"
     ]
   },
   "src/routes/community-kit.tsx?pick=default&pick=$css": {
-    "file": "assets/community-kit-C7s-gCx5.js",
+    "file": "assets/community-kit-Btct9Oxc.js",
     "name": "community-kit",
     "src": "src/routes/community-kit.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_index-DfQ78pin.js"
     ]
   },
   "src/routes/contact.tsx?pick=default&pick=$css": {
-    "file": "assets/contact-C9QXw8_A.js",
+    "file": "assets/contact-UCqMqEMP.js",
     "name": "contact",
     "src": "src/routes/contact.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_routes-CJAQlna1.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_routes-D9CfzYpz.js",
+      "_index-DfQ78pin.js"
     ]
   },
   "src/routes/events/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CrcF3xGT.js",
+    "file": "assets/index-CjJEb-l5.js",
     "name": "index",
     "src": "src/routes/events/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_routes-CJAQlna1.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_routes-D9CfzYpz.js",
+      "_index-DfQ78pin.js"
     ],
     "dynamicImports": [
       "content/events/2026-02-25-whistle-wednesdays.md"
     ]
   },
   "src/routes/gallery.tsx?pick=default&pick=$css": {
-    "file": "assets/gallery-f0urALaK.js",
+    "file": "assets/gallery-DuLdmtSS.js",
     "name": "gallery",
     "src": "src/routes/gallery.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_routes-CJAQlna1.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_routes-D9CfzYpz.js",
+      "_index-DfQ78pin.js"
     ],
     "dynamicImports": [
       "content/gallery-images/49263ee6b712.md",
@@ -1015,44 +1015,44 @@
     ]
   },
   "src/routes/how-to.tsx?pick=default&pick=$css": {
-    "file": "assets/how-to-DNzSe8Bd.js",
+    "file": "assets/how-to-vFQ-QbLb.js",
     "name": "how-to",
     "src": "src/routes/how-to.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_index-DfQ78pin.js"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-BUBbebYr.js",
+    "file": "assets/index-IN67iW_B.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_index-DfQ78pin.js"
     ],
     "css": [
       "assets/index-CoAeHAwE.css"
     ]
   },
   "src/routes/sites.tsx?pick=default&pick=$css": {
-    "file": "assets/sites-CTNMu0CF.js",
+    "file": "assets/sites-D9CUKCM1.js",
     "name": "sites",
     "src": "src/routes/sites.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_routes-CJAQlna1.js",
-      "_index-D18GSY5u.js"
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_routes-D9CfzYpz.js",
+      "_index-DfQ78pin.js"
     ],
     "dynamicImports": [
       "content/sites/32a95ac8bd1f.md",
@@ -1066,18 +1066,18 @@
     ]
   },
   "src/routes/zine/[name]/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-zy1P8agl.js",
+    "file": "assets/index-C2hR8U-c.js",
     "name": "index",
     "src": "src/routes/zine/[name]/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
-      "_web-q2UdLfRo.js",
-      "_meta-tags-Bruu2h5D.js",
+      "_web-NfXTu61L.js",
+      "_meta-tags-DSrOf5_X.js",
       "_hash-BtFmbGV9.js",
-      "_routes-CJAQlna1.js",
-      "_index-D18GSY5u.js"
+      "_routes-D9CfzYpz.js",
+      "_index-DfQ78pin.js"
     ],
     "dynamicImports": [
       "content/zines/18mr-for-the-love-of-bread.md",
@@ -1147,18 +1147,18 @@
     ]
   },
   "src/routes/zines/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CKwjbMmX.js",
+    "file": "assets/index-CEp3m5Ea.js",
     "name": "index",
     "src": "src/routes/zines/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
       "_preload-helper-ug3pwPZ1.js",
-      "_web-q2UdLfRo.js",
+      "_web-NfXTu61L.js",
       "_hash-BtFmbGV9.js",
-      "_routes-CJAQlna1.js",
-      "_meta-tags-Bruu2h5D.js",
-      "_index-D18GSY5u.js"
+      "_routes-D9CfzYpz.js",
+      "_meta-tags-DSrOf5_X.js",
+      "_index-DfQ78pin.js"
     ],
     "dynamicImports": [
       "content/categories/Anti-Racism.md",
@@ -1240,15 +1240,15 @@
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-C3qPKub_.js",
+    "file": "assets/client-DOw1ziEq.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_web-q2UdLfRo.js",
+      "_web-NfXTu61L.js",
       "_preload-helper-ug3pwPZ1.js",
-      "_index-D18GSY5u.js",
-      "_index-DfFVPtjD.js",
+      "_index-DfQ78pin.js",
+      "_index-PgV2X1eG.js",
       "_HttpStatusCode-DjTx85av.js"
     ],
     "dynamicImports": [
@@ -1265,7 +1265,7 @@
       "src/routes/zines/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-DuYt04Km.css"
+      "assets/client-50fulAVn.css"
     ]
   }
 }
