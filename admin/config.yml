@@ -145,3 +145,11 @@ collections:
       - { label: Name, name: name, widget: string, readonly: false }
       - { label: Subject, name: subject, widget: string }
       - { label: Body, name: email_body, widget: text }
+  - name: gallery-images
+    label: Gallery
+    folder: /content/gallery-images
+    create: true
+    fields:
+      - { label: Image, name: image, widget: image }
+      - { label: Alt Text, name: alt, widget: text }
+      - { label: Added, name: added_on, widget: datetime }
