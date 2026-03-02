@@ -51,6 +51,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: Name, name: name, widget: string }
+      - { label: Hidden, name: hidden, widget: boolean }
       - label: Category
         name: category
         widget: relation
