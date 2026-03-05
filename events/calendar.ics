@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-02-25-whistle-wednesdays@lzr.life
-DTSTAMP:20260303T083253Z
+DTSTAMP:20260305T183848Z
 DTSTART;TZID=America/Los_Angeles:20260204T180000
 DTEND;TZID=America/Los_Angeles:20260204T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -35,7 +35,7 @@ CATEGORIES:RAINBOW BLOC
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-27-azn-zine-fest@lzr.life
-DTSTAMP:20260303T083253Z
+DTSTAMP:20260305T183848Z
 DTSTART;TZID=America/Los_Angeles:20260228T120000
 DTEND;TZID=America/Los_Angeles:20260228T170000
 SUMMARY:Azn Zine Fest
@@ -43,5 +43,15 @@ LOCATION:Fubonn Shopping Center — 2850 SE 82nd Ave\, Portland\, OR 97266
 URL:https://aznzinefest.tumblr.com/
 DESCRIPTION:who\n- all are welcome & free to attend! (masks provided\, required\, seen as an act of care <3)\n- over 100 azn zinesters (https://aznzinefest.tumblr.com/vendors) are coming to inspire you with their art and zines\\~\n- organized by local pdx azn folk: Envy Estacio\, Yoko O.K.\, A’misa Chiu\, Sarah Joy Calpo\, Julia Kim\, Natalie Soutonglang\, & SJ Anderson\n\nSpecial Thanks\n\nazn zine fest is honored and grateful to be one of 13 amazing projects that was selected to be a 2026 Precipice Fund grant recipient through PICA PDX (https://www.pica.org/precipice-fund) \\~ it’s such a surreal thing to be able to represent azn creatives in Portland thru this DIY project\, and for zines in contemporary art spaces! <3\n\nhttps://aznzinefest.tumblr.com/\n\nCategory: Zine Fest
 CATEGORIES:Zine Fest
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-05-zine-folding-party@lzr.life
+DTSTAMP:20260305T183848Z
+DTSTART;TZID=America/Los_Angeles:20260321T133000
+DTEND;TZID=America/Los_Angeles:20260321T153000
+SUMMARY:Zine Folding Party!
+LOCATION:Westside Queer Resource Center — 233 SE Washington St Suite 104\, 
+ Hillsboro\, OR 97123
+DESCRIPTION:Zine Folding Party with Little Zine Revolution!\n\nSat. March 21. 1:30PM - 3:30PM\n\nWestside Queer Resource Center\n\n233 SE Washington St Hillsboro\, OR\n\nAssemble Anti-colonial zines\, pick up Ice-Alert whistles\n\nNo experience necessary
 END:VEVENT
 END:VCALENDAR
