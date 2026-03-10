@@ -49,6 +49,7 @@ collections:
     folder: /content/zines
     create: true
     slug: "{{slug}}"
+    thumbnail: "preview_image"
     fields:
       - { label: Name, name: name, widget: string }
       - { label: Hidden, name: hidden, widget: boolean }
