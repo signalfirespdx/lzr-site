@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-02-25-whistle-wednesdays@lzr.life
-DTSTAMP:20260320T030032Z
+DTSTAMP:20260329T190821Z
 DTSTART;TZID=America/Los_Angeles:20260204T180000
 DTEND;TZID=America/Los_Angeles:20260204T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -35,7 +35,7 @@ CATEGORIES:RAINBOW BLOC
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-27-azn-zine-fest@lzr.life
-DTSTAMP:20260320T030032Z
+DTSTAMP:20260329T190821Z
 DTSTART;TZID=America/Los_Angeles:20260228T120000
 DTEND;TZID=America/Los_Angeles:20260228T170000
 SUMMARY:Azn Zine Fest
@@ -46,12 +46,21 @@ CATEGORIES:Zine Fest
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-05-zine-folding-party@lzr.life
-DTSTAMP:20260320T030032Z
+DTSTAMP:20260329T190821Z
 DTSTART;TZID=America/Los_Angeles:20260321T133000
 DTEND;TZID=America/Los_Angeles:20260321T153000
 SUMMARY:Zine Folding Party!
 LOCATION:Westside Queer Resource Center — 233 SE Washington St Suite 104\, 
  Hillsboro\, OR 97123
 DESCRIPTION:Zine Folding Party with Little Zine Revolution!\n\nSat. March 21. 1:30PM - 3:30PM\n\nWestside Queer Resource Center\n\n233 SE Washington St Hillsboro\, OR\n\nAssemble Anti-colonial zines\, pick up Ice-Alert whistles\n\nNo experience necessary\n\nMask encouraged
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-03-29-zine-folding-party@lzr.life
+DTSTAMP:20260329T190821Z
+DTSTART;TZID=America/Los_Angeles:20260405T110000
+DTEND;TZID=America/Los_Angeles:20260405T140000
+SUMMARY:Zine Folding Party!
+LOCATION:Lloyd Center Food Court — 2201 Lloyd Center Portland OR
+DESCRIPTION:Zine Folding Party with Little Zine Revolution\n\nSunday\, April 5\n\n11 AM - 2PM\n\nLloyd Center Food Court (3rd Floor)\n\n2201 Lloyd Center\, Portland\, OR\n\nAccessible by stairs\, escalator\, and elevator\n\nAssemble queer\, anti-fascist\, & anti-colonial zines\n\nNo experience necessary\n\nMasks encouraged\n\nCheck out @portlandzinemeetup while you're there and meet zine creators!
 END:VEVENT
 END:VCALENDAR
