@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2026-02-25-whistle-wednesdays@lzr.life
-DTSTAMP:20260411T200546Z
+DTSTAMP:20260412T180922Z
 DTSTART;TZID=America/Los_Angeles:20260204T180000
 DTEND;TZID=America/Los_Angeles:20260204T200000
 RRULE:FREQ=WEEKLY;BYDAY=WE
@@ -35,7 +35,7 @@ CATEGORIES:RAINBOW BLOC
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-02-27-azn-zine-fest@lzr.life
-DTSTAMP:20260411T200546Z
+DTSTAMP:20260412T180922Z
 DTSTART;TZID=America/Los_Angeles:20260228T120000
 DTEND;TZID=America/Los_Angeles:20260228T170000
 SUMMARY:Azn Zine Fest
@@ -46,7 +46,7 @@ CATEGORIES:Zine Fest
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-05-zine-folding-party@lzr.life
-DTSTAMP:20260411T200546Z
+DTSTAMP:20260412T180922Z
 DTSTART;TZID=America/Los_Angeles:20260321T133000
 DTEND;TZID=America/Los_Angeles:20260321T153000
 SUMMARY:Zine Folding Party!
@@ -56,11 +56,20 @@ DESCRIPTION:Zine Folding Party with Little Zine Revolution!\n\nSat. March 21. 1:
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-29-zine-folding-party@lzr.life
-DTSTAMP:20260411T200546Z
+DTSTAMP:20260412T180922Z
 DTSTART;TZID=America/Los_Angeles:20260405T110000
 DTEND;TZID=America/Los_Angeles:20260405T140000
 SUMMARY:Zine Folding Party!
 LOCATION:Lloyd Center Food Court — 2201 Lloyd Center Portland OR
 DESCRIPTION:Zine Folding Party with Little Zine Revolution\n\nSunday\, April 5\n\n11 AM - 2PM\n\nLloyd Center Food Court (3rd Floor)\n\n2201 Lloyd Center\, Portland\, OR\n\nAccessible by stairs\, escalator\, and elevator\n\nAssemble queer\, anti-fascist\, & anti-colonial zines\n\nNo experience necessary\n\nMasks encouraged\n\nCheck out @portlandzinemeetup while you're there and meet zine creators!
+END:VEVENT
+BEGIN:VEVENT
+UID:2026-04-12-zine-folding-party@lzr.life
+DTSTAMP:20260412T180922Z
+DTSTART;TZID=America/Los_Angeles:20260425T100000
+DTEND;TZID=America/Los_Angeles:20260425T180000
+SUMMARY:Zine Folding Party!
+LOCATION:Third Eye Books Zen Garden — 2518 SE 33rd Ave. Portland OR
+DESCRIPTION:Celebrate Indie Bookstore Day with us!\n\nStop by anytime to hang out\, fold some zines\, read some zines\, and take some zines to distribute!\n\nFeel free to print and bring your favorite zines from our zine catalog at LZR.LIFE (https://lzr.life/)!\n\nSat April 25th\n\n10 am - 6 pm\n\nThird Eye Books Zen Garden\n\n2518 SE 33rd Ave Portland OR\n\nAssemble anti-colonial zines\n\nPick up ICE-alert whistles\n\nNo experience necessary
 END:VEVENT
 END:VCALENDAR

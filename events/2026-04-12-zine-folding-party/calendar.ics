@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//lzr.life//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Zine Folding Party!
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2026-04-12-zine-folding-party@lzr.life
+DTSTAMP:20260412T180922Z
+DTSTART;TZID=America/Los_Angeles:20260425T100000
+DTEND;TZID=America/Los_Angeles:20260425T180000
+SUMMARY:Zine Folding Party!
+LOCATION:Third Eye Books Zen Garden — 2518 SE 33rd Ave. Portland OR
+DESCRIPTION:Celebrate Indie Bookstore Day with us!\n\nStop by anytime to hang out\, fold some zines\, read some zines\, and take some zines to distribute!\n\nFeel free to print and bring your favorite zines from our zine catalog at LZR.LIFE (https://lzr.life/)!\n\nSat April 25th\n\n10 am - 6 pm\n\nThird Eye Books Zen Garden\n\n2518 SE 33rd Ave Portland OR\n\nAssemble anti-colonial zines\n\nPick up ICE-alert whistles\n\nNo experience necessary
+END:VEVENT
+END:VCALENDAR
