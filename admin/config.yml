@@ -3,7 +3,7 @@
 backend:
   name: github
   repo:  signalfirespdx/lzr-src
-  base_url: sveltia-cms-auth.signalfirespdx.workers.dev
+  base_url: https://sveltia-cms-auth.signalfirespdx.workers.dev
 
 media_folder: /public
 public_folder: /
