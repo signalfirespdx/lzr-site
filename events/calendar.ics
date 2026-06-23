@@ -23,19 +23,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:2026-02-25-whistle-wednesdays@lzr.life
-DTSTAMP:20260616T065934Z
-DTSTART;TZID=America/Los_Angeles:20260204T180000
-DTEND;TZID=America/Los_Angeles:20260204T200000
-RRULE:FREQ=WEEKLY;BYDAY=WE
-SUMMARY:Whistle Wednesdays
-LOCATION:Lucky Lab — 915 SE Hawthorne Blvd\, Portland\, OR 97214
-DESCRIPTION:Make anti-ICE whistle kits with Rainbow Bloc\n\nFold zines with Little Zine Revolution\n\nDonate shelf-stable food & winter supplies for mutual aid:\n- blankets\n- coats\n- tarps\n- gloves\n- hats\n- waterproof gear\n\nMasks required & provided\n\nAll ages welcome\n\nCategory: RAINBOW BLOC
-CATEGORIES:RAINBOW BLOC
-END:VEVENT
-BEGIN:VEVENT
 UID:2026-02-27-azn-zine-fest@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260228T120000
 DTEND;TZID=America/Los_Angeles:20260228T170000
 SUMMARY:Azn Zine Fest
@@ -46,7 +35,7 @@ CATEGORIES:Zine Fest
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-05-zine-folding-party@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260321T133000
 DTEND;TZID=America/Los_Angeles:20260321T153000
 SUMMARY:Zine Folding Party!
@@ -56,7 +45,7 @@ DESCRIPTION:Zine Folding Party with Little Zine Revolution!\n\nSat. March 21. 1:
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-03-29-zine-folding-party@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260405T110000
 DTEND;TZID=America/Los_Angeles:20260405T140000
 SUMMARY:Zine Folding Party!
@@ -65,7 +54,7 @@ DESCRIPTION:Zine Folding Party with Little Zine Revolution\n\nSunday\, April 5\n
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-04-12-zine-folding-party@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260425T100000
 DTEND;TZID=America/Los_Angeles:20260425T180000
 SUMMARY:Zine Folding Party!
@@ -74,7 +63,7 @@ DESCRIPTION:Celebrate Indie Bookstore Day with us!\n\nStop by anytime to hang ou
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-04-zine-folding-party@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260515T183000
 DTEND;TZID=America/Los_Angeles:20260515T200000
 SUMMARY:Zine Folding Party!
@@ -83,7 +72,7 @@ DESCRIPTION:Zine Folding Party with Little Zine Revolution!\n\nAssemble queer\, 
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-28-zine-folding-party-1@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260619T183000
 DTEND;TZID=America/Los_Angeles:20260619T203000
 SUMMARY:Zine Folding Party!
@@ -92,7 +81,7 @@ DESCRIPTION:Zine Folding Party with LZR!\n\nCelebrate Juneteenth with us!\n\nFRE
 END:VEVENT
 BEGIN:VEVENT
 UID:2026-05-28-zine-folding-party@lzr.life
-DTSTAMP:20260616T065934Z
+DTSTAMP:20260623T034736Z
 DTSTART;TZID=America/Los_Angeles:20260613T140000
 DTEND;TZID=America/Los_Angeles:20260613T170000
 SUMMARY:Zine Folding Party!
